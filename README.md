@@ -1,7 +1,7 @@
 ### Hola 👋
 
-i mainly code in go
-current interests are TLA+ and distributed SQL
+- i code in go <img width="2%" height="2%" src="./gopher.png" alt="Golang Logo" />
+- current interests are TLA+ and distributed SQL
 <!--
 **kk3399/kk3399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
